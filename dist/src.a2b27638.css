@@ -1,0 +1,52 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.app-container {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+}
+
+.card-header {
+  margin: 10px 0 10px 0;
+}
+
+.card-container {
+  border: 1px solid #888;
+  width: 400px;
+  height: 680px;
+  padding: 20px;
+  margin: 20px;
+}
+
+.item-info-header {
+  margin: 10px 0 10px 0;
+}
+
+.item-info-container {
+  border: 1px solid #888;
+  width: 400px;
+  height: 680px;
+  padding: 20px;
+  margin: 20px;
+}
+
+.container {
+  width: fit-content;
+}
+
+.btn-group {
+  display: flex;
+  justify-content: space-between;
+}
+
+.btn {
+  cursor: pointer;
+}
+
+.item {
+  cursor: pointer;
+}
+
+
+/*# sourceMappingURL=/src.a2b27638.css.map */
